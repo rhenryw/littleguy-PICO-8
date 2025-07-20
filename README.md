@@ -2,7 +2,7 @@
 
 ## Little Guy: Helping out the little guy 
 
-Little guy is a platformer made in PICO-8 that has Checkpoints, Spikes, Coins, and tons of placeable blocks for platforms. 
+Little guy is a customizable platformer made in PICO-8 that has Checkpoints, Spikes, Coins, and tons of placeable blocks for platforms. 
 
 You can edit the sprites to your fitting, and make your own levels within the Map editor, all coding logic pre-completed so __you can focus on making your level unique__
 
