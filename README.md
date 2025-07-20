@@ -8,7 +8,8 @@ You can edit the sprites to your fitting, and make your own levels within the Ma
 
 __Little Guy__ is also great as a base, so you can expand on the story, and improve with loading screens and such.
 
-
+> [!IMPORTANT]
+> Don't run the `.p8.png` because it is not updated, just use the `.p8`
 Code
 --
 Every line of code used (besides sprites) is below:
