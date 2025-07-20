@@ -1,2 +1,3 @@
-# littleguy-PICO-8
-A customizable platformer for PICO-8 beginners
+![Cartridge Image](https://github.com/rhenryw/littleguy-PICO-8/blob/a6497fe2b1710406d4c56348c94cc3650d719001/littleguy.p8.png)
+
+## Little Guy
